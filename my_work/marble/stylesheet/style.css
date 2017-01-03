@@ -1,0 +1,299 @@
+html {
+	background: #f7f7f7;
+}
+
+.header {
+	background: #e4e4e4;
+
+}
+
+h1, li, a {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+	font-family: 'Roboto Slab', sans-serif;
+}
+
+.wrap-box {
+	width: 100%
+	margin: 0 auto;
+}
+
+.top-box {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.header-wrap {
+	width: 1170px;
+	height: 123px;
+	background: #e4e4e4;
+}
+
+h1 {
+	float: left;
+	font-size: 40px;
+	color: #4e4e4e;
+	padding: 38px 0 40px 0;
+	font-weight: bold;
+}
+
+.active {
+	color: green;
+}
+
+.header-nav {
+	float: right;
+	padding-top: 50px;
+}
+
+.header-nav li {
+	display: inline;
+	text-decoration: none;
+	padding-left: 10px;
+}
+
+.header-nav li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #4e4e4e;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+
+.bottom-line {
+	background: #dadada;
+	height: 5px;
+}
+
+.baner {
+	background: url(../images/main.jpg);
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.main-baner {
+	padding-top: 199px;
+}
+
+h2 {
+	font-size: 40px;
+	color: #f3f3f3;
+
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 53px;
+}
+
+.main-baner p {
+	font-size: 32px;
+	color: #a8a8a8;
+	font-family: 'Roboto Slab', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 67px;
+}
+
+.see-portfolio {
+	text-align: center;
+
+}
+
+.see-portfolio a {
+	text-decoration: none;
+	color: #fff;
+	padding: 17px 26px;
+	background: #3f8dbf;
+	text-transform: uppercase;
+	border-radius: 5px;
+}
+
+.content-top li {
+	float: left;
+	text-align: center;
+	margin: 60px 5px 40px 40px;
+	width: 240px;
+
+}
+
+.content-top img {
+	padding-left: 72px;
+	padding-bottom: 29px;
+}
+
+.content-top li a {
+	font-family: 'Roboto Slab', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+	color: #4e4e4e;
+}
+
+.content-top p {
+	font-family: 'Roboto Regular', sans-serif;
+	font-size: 14px;
+	color: #616161;
+	padding-top: 18px;
+	line-height: 22px;
+}
+
+ .content-top ul {
+ 	height: 335px;
+	border-bottom: 2px solid #dcdcdc;
+}
+
+.content-middle {
+	margin-top: 61px;
+}
+
+.content-middle p {
+	color: #4e4e4e;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+
+.content-middle-wrap{
+	width: 1190px;
+	padding-bottom: 60px;
+}
+
+.content-middle-wrap li {
+	float: left;
+	padding: 0 15px 0 0;
+	width: 380px;
+}
+
+.content-middle-wrap li a {
+	text-decoration: none;
+	color: #4e4e4e;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: 'Roboto Slab', sans-serif;
+}
+
+.content-middle-wrap p {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 13px;
+	color: #bebebe;
+	padding-top: 15px;
+}
+
+.content-middle-wrap span {
+	font-family: 'Roboto Regular', sans-serif;
+	font-size: 14px;
+	color: #5c5c5c;
+	line-height: 30px;
+}
+
+.content-middle-wrap img {
+	width: 380px;
+	height: 270px;
+	margin-bottom: 26px;
+}
+
+.content-bottom-wrap {
+	width: 736px;
+}
+
+.content-bottom {
+	height: 230px;
+	background: #efefef;
+}
+
+.navodnici {
+	font-size: 100px;
+	clear: left;
+	font-style: Arial;
+	color: #dcdcdc;
+	text-align: center;
+	font-weight: bold;
+}
+
+.ispod {
+	color: #a1a1a1;
+	font-size: 20px;
+	font-family: 'Roboto Slab', sans-serif;
+	text-align: center;
+}
+
+.footer {
+	background: #1e1e1e;
+
+}
+
+.footer-top {
+	border-bottom: 2px solid #383838;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.black-line {
+	background: #1a1a1a;
+	height: 9px;
+	width: 100%;
+}
+
+.selection {
+	float: left;
+	width: 300px;
+}
+
+.about-us {
+	float: left;
+	width: 220px;
+}
+
+.subtitle {
+	color: #6c6c6c;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+
+.subtitle-text {
+	font-family: 'Roboto Regular', sans-serif;
+	font-size: 14px;
+	color: #aaaaaa;
+	line-height: 25px;
+
+}
+
+.text-width1 {
+	width: 260px;
+}
+
+.text-width2 {
+	width: 250px;
+}
+
+.text-width3 {
+	width: 245px;
+}
+
+
+.icon {
+	float: left;
+	padding-right: 15px;
+	clear: left;
+	padding-top: 5px;
+}
+
+.icon-text {
+	float: left;
+	width: 240px;
+}
+
+.sub1 {
+	padding-bottom: 33px;
+}
+
+.footer-bottom {
+	padding: 50px 0;
+}
