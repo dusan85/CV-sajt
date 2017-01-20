@@ -4,7 +4,6 @@ html {
 
 .header {
 	background: #e4e4e4;
-
 }
 
 h1, li, a {
@@ -62,8 +61,6 @@ h1 {
 	font-size: 16px;
 }
 
-
-
 .bottom-line {
 	background: #dadada;
 	height: 5px;
@@ -82,7 +79,6 @@ h1 {
 h2 {
 	font-size: 40px;
 	color: #f3f3f3;
-
 	font-weight: bold;
 	text-align: center;
 	padding-bottom: 53px;
@@ -99,7 +95,6 @@ h2 {
 
 .see-portfolio {
 	text-align: center;
-
 }
 
 .see-portfolio a {
@@ -116,7 +111,6 @@ h2 {
 	text-align: center;
 	margin: 60px 5px 40px 40px;
 	width: 240px;
-
 }
 
 .content-top img {
@@ -206,7 +200,7 @@ h2 {
 	background: #efefef;
 }
 
-.navodnici {
+.quotes {
 	font-size: 100px;
 	clear: left;
 	font-style: Arial;
@@ -215,7 +209,7 @@ h2 {
 	font-weight: bold;
 }
 
-.ispod {
+.under {
 	color: #a1a1a1;
 	font-size: 20px;
 	font-family: 'Roboto Slab', sans-serif;
@@ -224,7 +218,6 @@ h2 {
 
 .footer {
 	background: #1e1e1e;
-
 }
 
 .footer-top {
@@ -262,7 +255,6 @@ h2 {
 	font-size: 14px;
 	color: #aaaaaa;
 	line-height: 25px;
-
 }
 
 .text-width1 {
@@ -276,7 +268,6 @@ h2 {
 .text-width3 {
 	width: 245px;
 }
-
 
 .icon {
 	float: left;

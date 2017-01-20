@@ -1,0 +1,338 @@
+body {
+	background: url("../images/background.jpg") fixed;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.wrap-box {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header-wrap {
+	background: rgba(255, 255, 255, 0.9);
+}
+
+.sign {
+	float: left;
+	width: 170px;
+	padding: 10px 0 23px 10px;
+}
+
+.header-contact {
+	float: right;
+	padding: 10px 10px 0 0;
+	width: 220px;
+}
+
+.header-contact p {
+	color: #000;
+	font-size: 18px;
+	padding: 3px 0 15px 0;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.header-contact span {
+	display: block;
+	padding: 17px 0 5px 0;
+	color: #000;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.facebook {
+	display: block;
+	text-decoration: none;
+	color: #000;
+	font-size: 15px;
+	font-weight: bold;
+	padding-top: 12px;
+}
+
+.icon {
+	padding: 0 12px 5px 0;
+	float: left;
+	clear: left;
+}
+
+h1 {
+	float: left;
+	font-weight: bold;
+	font-size: 63px;
+	padding: 60px 0 0px 0px;
+	line-height: 50px;
+	text-align: center;
+}
+
+h1 span {
+	font-size: 32px;
+}
+
+.header-nav {
+	margin-left: 10px;
+	clear: left;
+}
+
+.nav-btn {
+	float: left;
+	font-size: 18px;
+	padding: 7px 16px;
+	text-decoration: none;
+	background: #011d84;
+	color: #fff;
+	margin-left: 5px;
+}
+
+.nav-btn:hover {
+	background: #294bc7;
+}
+
+.content-wrap {
+	background: lightgray;
+	opacity: 0.95;
+}
+
+.content-nav {
+	margin: 20px 0;
+	padding: 20px 0;
+}
+
+.content-nav li  {
+	float: left;
+	width: 280px;
+	border: 2px solid #011d84;
+	padding: 5px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	transition: 0.5s;
+}
+
+.product-name {
+	font-weight: bold;
+	color: #000;
+	font-size: 19px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.content-nav li img {
+	width: 270px;
+	height: 270px;
+	padding: 5px 0 5px 5px;
+	transition: 0.5s;
+}
+
+.content-nav li img:hover {
+	opacity: 0.5;
+}
+
+.bottom-side {
+	border-top: 1px solid #011d84;
+}
+
+.bottom-side p {
+	font-size: 20px;
+	font-weight: bold;;
+	margin: 7px 0 0 56px;
+}
+
+.btn {
+	margin-top: 10px;
+	padding: 7px 44px;
+	margin-left: 7px;
+}
+
+.detail {
+	float: left;
+	font-size: 18px;
+	padding: 7px 30px;
+	text-decoration: none;
+	background: #011d84;
+	color: #fff;
+	margin-top: 10px;
+	margin-left: 3px;
+}
+
+.detail:hover {
+	background: #294bc7;
+}
+
+footer {
+	padding-bottom: 25px;
+}
+
+.footer-wrap {
+	background: lightgray;
+	opacity: 0.95;
+}
+
+.footer-nav {
+	float: left;
+	margin-left: 110px;
+	width: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 25px;
+	font-size: 18px;
+}
+
+.footer-nav li a {
+	text-decoration: none;
+	color: #000;
+}
+
+.footer-nav img {
+	padding-bottom: 10px;
+}
+
+.footer-nav li:before {
+	content: "•";
+    padding-right: 8px;
+    color: #000;
+}
+
+/*proizvodi*/
+.product-detail {
+	margin: 20px 0;
+}
+
+.product-detail-wrap {
+	background: rgba(211,211,211,0.95);
+	padding-top: 10px;
+}
+
+.left-side {
+	float: left;
+	border-right: 1px solid #011d84;
+	text-align: center;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+.left-side p {
+	font-size: 28px;
+	padding-bottom: 15px;
+}
+
+.left-side a {
+	display: block;
+	padding: 10px;
+	width: 200px;
+	font-size: 22px;
+	text-decoration: none;
+	background: #011d84;
+	color: #fff;
+	margin: 0 auto 10px auto;
+}
+
+.big-picture {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	clear: left;
+	height: 450px;
+	width: 450px;
+}
+
+.transport {
+	width: 150px;
+	height: auto;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+.right-side {
+	float: left;
+	width: 48%;
+	box-sizing: border-box;
+	margin: 0 10px;
+}
+
+.description-detail {
+	font-size: 18px;
+	clear: left;
+	padding: 10px 20px 20px 20px;
+}
+
+/*-----end proizvodi-----*/
+
+/*-----NARUCIVANJE-----*/
+
+.buy {
+	margin: 20px 0;
+}
+
+.buy-wrap {
+	background: lightgray;
+	opacity: 0.95;
+}
+
+.left-buy-side {
+	float: left;
+	border-right: 1px solid #011d84;
+	width: 48%;
+	box-sizing: border-box;
+	margin-left: 10px;
+	padding-top: 10px;
+}
+
+.right-buy-side {
+	float: left;
+	width: 48%;
+	margin: 10px 10px 10px 20px;
+	box-sizing: border-box;
+}
+
+.order-product {
+	font-size: 20px;
+}
+
+.text-field {
+	float: left;
+	width: 150px;
+}
+
+.name, .street, .city, .choose, .note, .send-reset, .phone {
+	clear: left;
+	margin-right: 10px;
+} 
+
+input {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+select {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.free {
+	padding-top: 10px;
+}
+
+.free span {
+	font-size: 17px;
+}
+
+/* KONTAKT */
+
+.contact {
+	margin: 20px 0;	
+}
+
+.contact-wrap {
+	height: 220px;
+	background: lightgray;
+	opacity: 0.95;	
+}
+
+.contact-information {
+	padding: 20px 0 0px 10px;
+	font-size: 23px;
+}
+
+.contact-information a {
+	text-decoration: none;
+	color: #000;
+}

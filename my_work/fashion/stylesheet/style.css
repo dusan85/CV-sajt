@@ -241,7 +241,7 @@ input[type=submit] {
 }
 
 
- .content-nav li:hover { /*dodao sam hover da lepse izgleda*/
+ .content-nav li:hover { 
  	background: #fff;
  	border-right: 5px solid #df1f26;
 }
